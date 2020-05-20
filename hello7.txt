@@ -1,3 +1,7 @@
 stash test
+<<<<<<< HEAD
 hello
 
+=======
+stash test again
+>>>>>>> 01a7eea2b5cb52026619ff818f04c0669c04d36a
